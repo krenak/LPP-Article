@@ -1,0 +1,719 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.7) (preloaded format=pdflatex 2020.8.26)  27 SEP 2020 16:11
+entering extended mode
+**"f:/Root Files/Academic/masters/_desenvolvimento/_regular/_eventos/LPP-Article/main.tex"
+("f:/Root Files/Academic/masters/_desenvolvimento/_regular/_eventos/LPP-Article/main.tex"
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-08-07> (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+(C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
+File: size12.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count168
+\c@section=\count169
+\c@subsection=\count170
+\c@subsubsection=\count171
+\c@paragraph=\count172
+\c@subparagraph=\count173
+\c@figure=\count174
+\c@table=\count175
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+) (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2020/07/13 3.47 The Babel package
+ (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.def
+File: babel.def 2020/07/13 3.47 Babel common definitions
+\babel@savecnt=\count176
+\U@D=\dimen135
+\l@babelnohyphens=\language79
+ (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
+\bbl@readstream=\read2
+)
+\bbl@dirlevel=\count177
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of babel
+) (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/latex/babel-portuges\brazil.ldf
+Language: portuges 2020/05/04 v1.2r Portuguese support from the babel system
+Package babel Info: \l@brazil = using hyphenrules for portuguese
+(babel)             (\language56) on input line 111.
+Package babel Info: Making " an active character on input line 143.
+)) (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+) (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+ (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\Gm@cnth=\count178
+\Gm@cntv=\count179
+\c@Gm@tempcnt=\count180
+\Gm@bindingoffset=\dimen136
+\Gm@wd@mp=\dimen137
+\Gm@odd@mp=\dimen138
+\Gm@even@mp=\dimen139
+\Gm@layoutwidth=\dimen140
+\Gm@layoutheight=\dimen141
+\Gm@layouthoffset=\dimen142
+\Gm@layoutvoffset=\dimen143
+\Gm@dimlist=\toks16
+ (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg)) (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\charter.sty
+Package: charter 2020/03/25 PSNFSS-v9.3 (P.Dyballa) 
+) (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks17
+\inpenc@posthook=\toks18
+) (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.sty
+Package: microtype 2019/11/18 v2.7d Micro-typographical refinements (RS)
+\MT@toks=\toks19
+\MT@count=\count181
+LaTeX Info: Redefining \textls on input line 790.
+\MT@outer@kern=\dimen144
+LaTeX Info: Redefining \textmicrotypecontext on input line 1354.
+\MT@listname@count=\count182
+ (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype-pdftex.def
+File: microtype-pdftex.def 2019/11/18 v2.7d Definitions specific to pdftex (RS)
+LaTeX Info: Redefining \lsstyle on input line 914.
+LaTeX Info: Redefining \lslig on input line 914.
+\MT@outer@space=\skip49
+)
+Package microtype Info: Loading configuration file microtype.cfg.
+ (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.cfg
+File: microtype.cfg 2019/11/18 v2.7d microtype main configuration file (RS)
+)) (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+ (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+ (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+) (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+ (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen145
+\Gin@req@width=\dimen146
+) (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/latex/wrapfig\wrapfig.sty
+\wrapoverhang=\dimen147
+\WF@size=\dimen148
+\c@WF@wrappedlines=\count183
+\WF@box=\box45
+\WF@everypar=\toks20
+Package: wrapfig 2003/01/31  v 3.6
+) (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\labelindent=\skip50
+\enit@outerparindent=\dimen149
+\enit@toks=\toks21
+\enit@inbox=\box46
+\enit@count@id=\count184
+\enitdp@description=\count185
+) (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
+Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footers
+\f@nch@headwidth=\skip51
+\f@nch@O@elh=\skip52
+\f@nch@O@erh=\skip53
+\f@nch@O@olh=\skip54
+\f@nch@O@orh=\skip55
+\f@nch@O@elf=\skip56
+\f@nch@O@erf=\skip57
+\f@nch@O@olf=\skip58
+\f@nch@O@orf=\skip59
+) (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2020/01/20 v2.17e AMS math features
+\@mathmargin=\skip60
+
+For additional information on amsmath, use the `?' option.
+(C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+ (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks22
+\ex@=\dimen150
+)) (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen151
+) (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count186
+LaTeX Info: Redefining \frac on input line 227.
+\uproot@=\count187
+\leftroot@=\count188
+LaTeX Info: Redefining \overline on input line 389.
+\classnum@=\count189
+\DOTSCASE@=\count190
+LaTeX Info: Redefining \ldots on input line 486.
+LaTeX Info: Redefining \dots on input line 489.
+LaTeX Info: Redefining \cdots on input line 610.
+\Mathstrutbox@=\box47
+\strutbox@=\box48
+\big@size=\dimen152
+LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+\macc@depth=\count191
+\c@MaxMatrixCols=\count192
+\dotsspace@=\muskip16
+\c@parentequation=\count193
+\dspbrk@lvl=\count194
+\tag@help=\toks23
+\row@=\count195
+\column@=\count196
+\maxfields@=\count197
+\andhelp@=\toks24
+\eqnshift@=\dimen153
+\alignsep@=\dimen154
+\tagshift@=\dimen155
+\tagwidth@=\dimen156
+\totwidth@=\dimen157
+\lineht@=\dimen158
+\@envbody=\toks25
+\multlinegap=\skip61
+\multlinetaggap=\skip62
+\mathdisplay@stack=\toks26
+LaTeX Info: Redefining \[ on input line 2859.
+LaTeX Info: Redefining \] on input line 2860.
+) (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count198
+\float@exts=\toks27
+\float@box=\box49
+\@float@everytoks=\toks28
+\@floatcapt=\box50
+) (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen159
+\lightrulewidth=\dimen160
+\cmidrulewidth=\dimen161
+\belowrulesep=\dimen162
+\belowbottomsep=\dimen163
+\aboverulesep=\dimen164
+\abovetopsep=\dimen165
+\cmidrulesep=\dimen166
+\cmidrulekern=\dimen167
+\defaultaddspace=\dimen168
+\@cmidla=\count199
+\@cmidlb=\count266
+\@aboverulesep=\dimen169
+\@belowrulesep=\dimen170
+\@thisruleclass=\count267
+\@lastruleclass=\count268
+\@thisrulewidth=\dimen171
+) (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.sty
+Package: biblatex 2019/12/01 v3.14 programmable bibliographies (PK/MW)
+ (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+ (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+) (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+) (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2020/07/15 v2.5i e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count269
+) (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
+ (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/generic/kvsetkeys\kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)) (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.sty
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count270
+ (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.def
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+)) (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+) (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+\c@tabx@nest=\count271
+\c@listtotal=\count272
+\c@listcount=\count273
+\c@liststart=\count274
+\c@liststop=\count275
+\c@citecount=\count276
+\c@citetotal=\count277
+\c@multicitecount=\count278
+\c@multicitetotal=\count279
+\c@instcount=\count280
+\c@maxnames=\count281
+\c@minnames=\count282
+\c@maxitems=\count283
+\c@minitems=\count284
+\c@citecounter=\count285
+\c@maxcitecounter=\count286
+\c@savedcitecounter=\count287
+\c@uniquelist=\count288
+\c@uniquename=\count289
+\c@refsection=\count290
+\c@refsegment=\count291
+\c@maxextratitle=\count292
+\c@maxextratitleyear=\count293
+\c@maxextraname=\count294
+\c@maxextradate=\count295
+\c@maxextraalpha=\count296
+\c@abbrvpenalty=\count297
+\c@highnamepenalty=\count298
+\c@lownamepenalty=\count299
+\c@maxparens=\count300
+\c@parenlevel=\count301
+\blx@tempcnta=\count302
+\blx@tempcntb=\count303
+\blx@tempcntc=\count304
+\blx@maxsection=\count305
+\blx@maxsegment@0=\count306
+\blx@notetype=\count307
+\blx@parenlevel@text=\count308
+\blx@parenlevel@foot=\count309
+\blx@sectionciteorder@0=\count310
+\blx@entrysetcounter=\count311
+\labelnumberwidth=\skip63
+\labelalphawidth=\skip64
+\biblabelsep=\skip65
+\bibitemsep=\skip66
+\bibnamesep=\skip67
+\bibinitsep=\skip68
+\bibparsep=\skip69
+\bibhang=\skip70
+\blx@bcfin=\read3
+\blx@bcfout=\write3
+\blx@langwohyphens=\language80
+\c@mincomprange=\count312
+\c@maxcomprange=\count313
+\c@mincompwidth=\count314
+Package biblatex Info: Trying to load biblatex default data model...
+Package biblatex Info: ... file 'blx-dm.def' found.
+ (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-dm.def
+File: blx-dm.def 2019/12/01 v3.14 biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load biblatex style data model...
+Package biblatex Info: ... file 'abnt.dbx' not found.
+Package biblatex Info: Trying to load biblatex custom data model...
+Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
+\c@afterword=\count315
+\c@savedafterword=\count316
+\c@annotator=\count317
+\c@savedannotator=\count318
+\c@author=\count319
+\c@savedauthor=\count320
+\c@bookauthor=\count321
+\c@savedbookauthor=\count322
+\c@commentator=\count323
+\c@savedcommentator=\count324
+\c@editor=\count325
+\c@savededitor=\count326
+\c@editora=\count327
+\c@savededitora=\count328
+\c@editorb=\count329
+\c@savededitorb=\count330
+\c@editorc=\count331
+\c@savededitorc=\count332
+\c@foreword=\count333
+\c@savedforeword=\count334
+\c@holder=\count335
+\c@savedholder=\count336
+\c@introduction=\count337
+\c@savedintroduction=\count338
+\c@namea=\count339
+\c@savednamea=\count340
+\c@nameb=\count341
+\c@savednameb=\count342
+\c@namec=\count343
+\c@savednamec=\count344
+\c@translator=\count345
+\c@savedtranslator=\count346
+\c@shortauthor=\count347
+\c@savedshortauthor=\count348
+\c@shorteditor=\count349
+\c@savedshorteditor=\count350
+\c@labelname=\count351
+\c@savedlabelname=\count352
+\c@institution=\count353
+\c@savedinstitution=\count354
+\c@lista=\count355
+\c@savedlista=\count356
+\c@listb=\count357
+\c@savedlistb=\count358
+\c@listc=\count359
+\c@savedlistc=\count360
+\c@listd=\count361
+\c@savedlistd=\count362
+\c@liste=\count363
+\c@savedliste=\count364
+\c@listf=\count365
+\c@savedlistf=\count366
+\c@location=\count367
+\c@savedlocation=\count368
+\c@organization=\count369
+\c@savedorganization=\count370
+\c@origlocation=\count371
+\c@savedoriglocation=\count372
+\c@origpublisher=\count373
+\c@savedorigpublisher=\count374
+\c@publisher=\count375
+\c@savedpublisher=\count376
+\c@language=\count377
+\c@savedlanguage=\count378
+\c@origlanguage=\count379
+\c@savedoriglanguage=\count380
+\c@pageref=\count381
+\c@savedpageref=\count382
+\shorthandwidth=\skip71
+\shortjournalwidth=\skip72
+\shortserieswidth=\skip73
+\shorttitlewidth=\skip74
+\shortauthorwidth=\skip75
+\shorteditorwidth=\skip76
+\locallabelnumberwidth=\skip77
+\locallabelalphawidth=\skip78
+\localshorthandwidth=\skip79
+\localshortjournalwidth=\skip80
+\localshortserieswidth=\skip81
+\localshorttitlewidth=\skip82
+\localshortauthorwidth=\skip83
+\localshorteditorwidth=\skip84
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+ (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-compat.def
+File: blx-compat.def 2019/12/01 v3.14 biblatex compatibility (PK/MW)
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex.def' found.
+ (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.def
+File: biblatex.def 2019/12/01 v3.14 biblatex compatibility (PK/MW)
+\c@textcitecount=\count383
+\c@textcitetotal=\count384
+\c@textcitemaxnames=\count385
+\c@biburlbigbreakpenalty=\count386
+\c@biburlbreakpenalty=\count387
+\c@biburlnumpenalty=\count388
+\c@biburlucpenalty=\count389
+\c@biburllcpenalty=\count390
+\biburlbigskip=\muskip18
+\biburlnumskip=\muskip19
+\biburlucskip=\muskip20
+\biburllcskip=\muskip21
+\c@smartand=\count391
+)
+Package biblatex Info: Trying to load bibliography style 'abnt'...
+Package biblatex Info: ... file 'abnt.bbx' found.
+ (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/latex/biblatex-abnt/bbx\abnt.bbx
+File: abnt.bbx 2018-11-17 v3.4 ABNT BibLaTeX citation style
+ (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xparse.sty (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2020-08-07 L3 programming layer (loader) 
+ (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdfmode.def
+File: l3backend-pdfmode.def 2020-08-07 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count392
+\l__pdf_internal_box=\box51
+))
+Package: xparse 2020-05-15 L3 Experimental document command parser
+ (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xparse-generic.tex
+\l__xparse_current_arg_int=\count393
+\g__xparse_grabber_int=\count394
+\l__xparse_m_args_int=\count395
+\l__xparse_v_nesting_int=\count396
+)) (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/latex/xpatch\xpatch.sty
+Package: xpatch 2020/03/25 v0.3a Extending etoolbox patching commands
+)
+Package biblatex Info: Trying to load bibliography style 'standard'...
+Package biblatex Info: ... file 'standard.bbx' found.
+ (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\standard.bbx
+File: standard.bbx 2019/12/01 v3.14 biblatex bibliography style (PK/MW)
+\c@bbx:relatedcount=\count397
+\c@bbx:relatedtotal=\count398
+))
+Package biblatex Info: Trying to load citation style 'abnt'...
+Package biblatex Info: ... file 'abnt.cbx' found.
+ (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/latex/biblatex-abnt/cbx\abnt.cbx
+File: abnt.cbx 2018-11-17 v3.4 ABNT BibLaTeX citation style
+Package biblatex Info: Trying to load citation style 'authoryear-comp'...
+Package biblatex Info: ... file 'authoryear-comp.cbx' found.
+ (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/cbx\authoryear-comp.cbx
+File: authoryear-comp.cbx 2019/12/01 v3.14 biblatex citation style (PK/MW)
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcitetext'.
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\textcites'.
+Package biblatex Info: Redefining '\cites'.
+Package biblatex Info: Redefining '\parencites'.
+Package biblatex Info: Redefining '\footcites'.
+Package biblatex Info: Redefining '\footcitetexts'.
+Package biblatex Info: Redefining '\smartcites'.
+)
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\cites'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcites'.
+Package biblatex Info: Redefining '\citetitle'.
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\citeauthor'.
+Package biblatex Info: Redefining '\citeyear'.
+)
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+ (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.cfg
+File: biblatex.cfg 
+)) (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.sty
+Package: csquotes 2019-12-06 v5.2j context-sensitive quotations (JAW)
+\csq@reset=\count399
+\csq@gtype=\count400
+\csq@glevel=\count401
+\csq@qlevel=\count402
+\csq@maxlvl=\count403
+\csq@tshold=\count404
+\csq@ltx@everypar=\toks29
+ (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.def
+File: csquotes.def 2019-12-06 v5.2j csquotes generic definitions (JAW)
+)
+Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
+Package csquotes Info: ... configuration file loaded successfully.
+ (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.cfg
+File: csquotes.cfg 
+)) (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/latex/easylist\easylist.sty
+Package: easylist 2014/01/11 v.1.4 Numbered items with a single command.
+\el@CounterTotal=\count405
+\el@Scratch=\count406
+\el@ControlCounter=\count407
+\el@CounterLevel=\count408
+\c@List1=\count409
+\c@List2=\count410
+\c@List3=\count411
+\c@List4=\count412
+\c@List5=\count413
+\c@List6=\count414
+\c@List7=\count415
+\c@List8=\count416
+\c@List9=\count417
+\c@List10=\count418
+\el@ProgressiveDimension=\dimen172
+\el@CounterBox=\box52
+\el@ControlBox=\box53
+\el@TotalMargin=\dimen173
+\el@LeftMove=\dimen174
+) (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+Package csquotes Info: Checking for multilingual support...
+Package csquotes Info: ... found 'babel' package.
+Package csquotes Info: Adjusting default style.
+Package csquotes Info: Redefining alias 'default' -> 'brazil'.
+ ("f:/Root Files\Academic\masters\_desenvolvimento\_regular\_eventos\LPP-Article\main.aux")
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Trying to load font information for OT1+bch on input line 38.
+ (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1bch.fd
+File: ot1bch.fd 2004/10/18 font definitions for OT1/bch.
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(71.13188pt, 455.24411pt, 71.13188pt)
+* v-part:(T,H,B)=(71.13188pt, 702.78308pt, 71.13188pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=455.24411pt
+* \textheight=702.78308pt
+* \oddsidemargin=-1.1381pt
+* \evensidemargin=-1.1381pt
+* \topmargin=-38.1381pt
+* \headheight=15.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=35.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Info: Redefining \microtypecontext on input line 38.
+Package microtype Info: Generating PDF output.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using default protrusion set `alltext'.
+Package microtype Info: Automatic font expansion enabled (level 2),
+(microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
+Package microtype Info: Using default expansion set `basictext'.
+LaTeX Info: Redefining \showhyphens on input line 38.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of interword spacing.
+Package microtype Info: No adjustment of character kerning.
+(C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-bch.cfg
+File: mt-bch.cfg 2007/03/03 v1.5 microtype config. file: Bitstream Charter (RS)
+) (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count419
+\scratchdimen=\dimen175
+\scratchbox=\box54
+\nofMPsegments=\count420
+\nofMParguments=\count421
+\everyMPshowfont=\toks30
+\MPscratchCnt=\count422
+\MPscratchDim=\dimen176
+\MPnumerator=\count423
+\makeMPintoPDFobject=\count424
+\everyMPtoPDFconversion=\toks31
+) (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+ (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/latex/grfext\grfext.sty
+Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
+ (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+))
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 504.
+)
+Package biblatex Info: Trying to load language 'brazil' -> 'brazil-abnt'...
+Package biblatex Info: ... file 'brazil-abnt.lbx' found.
+ (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/latex/biblatex-abnt/lbx\brazil-abnt.lbx
+File: brazil-abnt.lbx 2018-11-17 v3.4 ABNT BibLaTeX citation style
+
+
+Package biblatex Warning: File 'brazilian-abnt-abnt.lbx' not found!
+(biblatex)                Ignoring mapping 'brazilian-abnt' -> 'brazilian-abnt-abnt'.
+
+Package biblatex Info: Trying to load language 'brazilian-abnt'...
+Package biblatex Info: ... file 'brazilian-abnt.lbx' found.
+(C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/latex/biblatex-abnt/lbx\brazilian-abnt.lbx
+File: brazilian-abnt.lbx 2018-11-17 v3.4 ABNT BibLaTeX citation style
+Package biblatex Info: Trying to load language 'brazilian' -> 'brazilian-abnt'...
+Package biblatex Info: ... file 'brazilian-abnt.lbx' found.
+ (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/latex/biblatex-abnt/lbx\brazilian-abnt.lbx
+File: brazilian-abnt.lbx 2018-11-17 v3.4 ABNT BibLaTeX citation style
+Package biblatex Info: Trying to load language 'brazilian'...
+Package biblatex Info: ... file 'brazilian.lbx' found.
+ (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\brazilian.lbx
+File: brazilian.lbx 2019/12/01 v3.14 biblatex localization (PK/MW)
+)))
+Package biblatex Info: Trying to load language 'brazilian-abnt'...
+Package biblatex Info: ... file 'brazilian-abnt.lbx' found.
+ (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/latex/biblatex-abnt/lbx\brazilian-abnt.lbx
+File: brazilian-abnt.lbx 2018-11-17 v3.4 ABNT BibLaTeX citation style
+Package biblatex Info: Trying to load language 'brazilian' -> 'brazilian-abnt'...
+Package biblatex Info: ... file 'brazilian-abnt.lbx' found.
+ (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/latex/biblatex-abnt/lbx\brazilian-abnt.lbx
+File: brazilian-abnt.lbx 2018-11-17 v3.4 ABNT BibLaTeX citation style
+Package biblatex Info: Trying to load language 'brazilian'...
+Package biblatex Info: ... file 'brazilian.lbx' found.
+ (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\brazilian.lbx
+File: brazilian.lbx 2019/12/01 v3.14 biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load language 'brazil'...
+Package biblatex Info: ... file 'brazil.lbx' found.
+ (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\brazil.lbx
+File: brazil.lbx 2019/12/01 v3.14 biblatex localization (PK/MW)
+Package biblatex Info: Trying to load language 'brazilian'...
+Package biblatex Info: ... file 'brazilian.lbx' found.
+ (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\brazilian.lbx
+File: brazilian.lbx 2019/12/01 v3.14 biblatex localization (PK/MW)
+)))
+Package biblatex Info: Trying to load language 'brazil'...
+Package biblatex Info: ... file 'brazil.lbx' found.
+ (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\brazil.lbx
+File: brazil.lbx 2019/12/01 v3.14 biblatex localization (PK/MW)
+Package biblatex Info: Trying to load language 'brazilian' -> 'brazilian-abnt'...
+Package biblatex Info: ... file 'brazilian-abnt.lbx' found.
+ (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/latex/biblatex-abnt/lbx\brazilian-abnt.lbx
+File: brazilian-abnt.lbx 2018-11-17 v3.4 ABNT BibLaTeX citation style
+Package biblatex Info: Trying to load language 'brazilian'...
+Package biblatex Info: ... file 'brazilian.lbx' found.
+ (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\brazilian.lbx
+File: brazilian.lbx 2019/12/01 v3.14 biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load language 'brazil'...
+Package biblatex Info: ... file 'brazil.lbx' found.
+ (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\brazil.lbx
+File: brazil.lbx 2019/12/01 v3.14 biblatex localization (PK/MW)
+Package biblatex Info: Trying to load language 'brazilian'...
+Package biblatex Info: ... file 'brazilian.lbx' found.
+ (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\brazilian.lbx
+File: brazilian.lbx 2019/12/01 v3.14 biblatex localization (PK/MW)
+))))))
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'utf8'.
+\openout3 = `main.bcf'.
+
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'main.bbl' found.
+ ("f:/Root Files\Academic\masters\_desenvolvimento\_regular\_eventos\LPP-Article\main.bbl")
+Package biblatex Info: Reference section=0 on input line 38.
+Package biblatex Info: Reference segment=0 on input line 38.
+ (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-cmr.cfg
+File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (RS)
+) ("f:/Root Files\Academic\masters\_desenvolvimento\_regular\_eventos\LPP-Article\secoes/corpo.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 3--12
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--21
+
+ []
+
+LaTeX Font Info:    Trying to load font information for TS1+bch on input line 32.
+(C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1bch.fd
+File: ts1bch.fd 2004/10/18 font definitions for TS1/bch.
+)) [1
+
+{C:/Users/aaa_l/AppData/Local/MiKTeX/pdftex/config/pdftex.map}] ("f:/Root Files\Academic\masters\_desenvolvimento\_regular\_eventos\LPP-Article\main.aux")
+Package logreq Info: Writing requests to 'main.run.xml'.
+\openout1 = `main.run.xml'.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 14430 strings out of 481212
+ 259511 string characters out of 2905973
+ 1000959 words of memory out of 3000000
+ 29756 multiletter control sequences out of 15000+200000
+ 548077 words of font info for 75 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 60i,6n,65p,897b,4021s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/aaa_l/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/Users/aaa_l/AppData/Local/Programs/MiKTeX/fonts/type1/bitstrea/charter/bchr8a.pfb>
+Output written on "f:/Root Files\Academic\masters\_desenvolvimento\_regular\_eventos\LPP-Article\main.pdf" (1 page, 22037 bytes).
+PDF statistics:
+ 11 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 14849 words of extra memory for PDF output out of 17280 (max. 10000000)
+
