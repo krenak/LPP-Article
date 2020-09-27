@@ -191,9 +191,7 @@ INPUT C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cme
 INPUT f:\Root Files\Academic\masters\_desenvolvimento\_regular\_eventos\LPP-Article\secoes\corpo.tex
 INPUT f:\Root Files\Academic\masters\_desenvolvimento\_regular\_eventos\LPP-Article\secoes\corpo.tex
 INPUT C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\fonts\tfm\bitstrea\charter\bchr7t.tfm
-INPUT C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\ts1bch.fd
-INPUT C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\ts1bch.fd
-INPUT C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\fonts\tfm\bitstrea\charter\bchr8c.tfm
+INPUT C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\fonts\tfm\bitstrea\charter\bchri7t.tfm
 OUTPUT f:\Root Files\Academic\masters\_desenvolvimento\_regular\_eventos\LPP-Article\main.pdf
 INPUT C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\fonts\vf\bitstrea\charter\bchr7t.vf
 INPUT C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\fonts\tfm\bitstrea\charter\bchr8r.tfm
@@ -202,7 +200,8 @@ INPUT C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\fonts\vf\bitstrea\charter\bch
 INPUT C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\fonts\tfm\bitstrea\charter\bchr8r.tfm
 INPUT C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\fonts\vf\bitstrea\charter\bchr7t.vf
 INPUT C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\fonts\tfm\bitstrea\charter\bchr8r.tfm
-INPUT C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\fonts\vf\bitstrea\charter\bchr8c.vf
+INPUT C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\fonts\vf\bitstrea\charter\bchri7t.vf
+INPUT C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\fonts\tfm\bitstrea\charter\bchri8r.tfm
 INPUT C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\fonts\vf\bitstrea\charter\bchr7t.vf
 INPUT C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\fonts\tfm\bitstrea\charter\bchr8r.tfm
 INPUT f:\Root Files\Academic\masters\_desenvolvimento\_regular\_eventos\LPP-Article\main.aux
@@ -212,3 +211,5 @@ OUTPUT f:\Root Files\Academic\masters\_desenvolvimento\_regular\_eventos\LPP-Art
 INPUT C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\base\8r.enc
 INPUT C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\fonts\type1\bitstrea\charter\bchr8a.pfb
 INPUT C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\fonts\type1\bitstrea\charter\bchr8a.pfb
+INPUT C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\fonts\type1\bitstrea\charter\bchri8a.pfb
+INPUT C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\fonts\type1\bitstrea\charter\bchri8a.pfb
