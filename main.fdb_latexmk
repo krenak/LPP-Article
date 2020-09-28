@@ -1,10 +1,10 @@
 # Fdb version 3
-["biber main"] 1601251517 "main.bcf" "main.bbl" "main" 1601251550
-  "main.bcf" 1601251550 105342 3c63a279e74cb029553c8fb311159cda "pdflatex"
+["biber main"] 1601251517 "main.bcf" "main.bbl" "main" 1601326741
+  "main.bcf" 1601326741 105342 3c63a279e74cb029553c8fb311159cda "pdflatex"
   (generated)
-  "main.blg"
   "main.bbl"
-["pdflatex"] 1601251548 "f:/Root Files/Academic/masters/_desenvolvimento/_regular/_eventos/LPP-Article/main.tex" "f:/Root Files/Academic/masters/_desenvolvimento/_regular/_eventos/LPP-Article/main.pdf" "main" 1601251550
+  "main.blg"
+["pdflatex"] 1601326739 "f:/Root Files/Academic/masters/_desenvolvimento/_regular/_eventos/LPP-Article/main.tex" "f:/Root Files/Academic/masters/_desenvolvimento/_regular/_eventos/LPP-Article/main.pdf" "main" 1601326741
   "C:/Users/aaa_l/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1598478754 10050466 8568016b8a220c0ceb96ba6e8cb6d29d ""
   "C:/Users/aaa_l/AppData/Local/MiKTeX/pdftex/config/pdftex.map" 1601143669 117612 53eb9240fb1ccf52de0c2e950d6bb947 ""
   "C:/Users/aaa_l/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc" 1458473887 4993 80dc9bab7f31fb78a000ccfed0e27cab ""
@@ -97,18 +97,18 @@
   "C:/Users/aaa_l/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/aaa_l/AppData/Local/Programs/MiKTeX/tex/latex/wrapfig/wrapfig.sty" 1044403200 26220 3701aebf80ccdef248c0c20dd062fea9 ""
   "C:/Users/aaa_l/AppData/Local/Programs/MiKTeX/tex/latex/xpatch/xpatch.sty" 1585221260 8510 7803f78066c4f9d008405191a4b43073 ""
-  "f:/Root Files/Academic/masters/_desenvolvimento/_regular/_eventos/LPP-Article/main.aux" 1601251550 520 f9a94582fcd27e21fcd2d5580b348c87 ""
+  "f:/Root Files/Academic/masters/_desenvolvimento/_regular/_eventos/LPP-Article/main.aux" 1601326741 520 f9a94582fcd27e21fcd2d5580b348c87 ""
   "f:/Root Files/Academic/masters/_desenvolvimento/_regular/_eventos/LPP-Article/main.tex" 1601251514 2274 a83becd6450982aaa13a7f95742fd87c ""
-  "main.aux" 1601251550 520 f9a94582fcd27e21fcd2d5580b348c87 "pdflatex"
+  "main.aux" 1601326741 520 f9a94582fcd27e21fcd2d5580b348c87 "pdflatex"
   "main.bbl" 1601251522 0 d41d8cd98f00b204e9800998ecf8427e "biber main"
-  "main.run.xml" 1601251550 2362 71550c01bdfab9a2aea076b1f6e3426e "pdflatex"
+  "main.run.xml" 1601326741 2362 71550c01bdfab9a2aea076b1f6e3426e "pdflatex"
   "main.tex" 1601251514 2274 a83becd6450982aaa13a7f95742fd87c ""
-  "secoes/corpo.tex" 1601251547 6084 b235b4590f5d3d13c2de506bfd723db7 ""
+  "secoes/corpo.tex" 1601326739 7601 b2bf305bb281788666cd6bfbe0f87021 ""
   (generated)
-  "f:/Root Files/Academic/masters/_desenvolvimento/_regular/_eventos/LPP-Article/main.log"
-  "main.aux"
   "main.log"
   "main.pdf"
+  "main.aux"
   "main.run.xml"
   "main.bcf"
+  "f:/Root Files/Academic/masters/_desenvolvimento/_regular/_eventos/LPP-Article/main.log"
   "f:/Root Files/Academic/masters/_desenvolvimento/_regular/_eventos/LPP-Article/main.pdf"
