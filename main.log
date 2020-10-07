@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.7) (preloaded format=pdflatex 2020.8.26)  28 SEP 2020 22:15
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.7) (preloaded format=pdflatex 2020.8.26)  28 SEP 2020 22:18
 entering extended mode
 **"f:/Root Files/Academic/masters/_desenvolvimento/_regular/_eventos/LPP-Article/main.tex"
 ("f:/Root Files/Academic/masters/_desenvolvimento/_regular/_eventos/LPP-Article/main.tex"
@@ -689,12 +689,12 @@ LaTeX Font Info:    Trying to load font information for TS1+bch on input line 67
  (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1bch.fd
 File: ts1bch.fd 2004/10/18 font definitions for TS1/bch.
 )
-<figures/0_Fluxogramas-4.jpg, id=7, 841.64438pt x 953.06062pt>
-File: figures/0_Fluxogramas-4.jpg Graphic file (type jpg)
-<use figures/0_Fluxogramas-4.jpg>
-Package pdftex.def Info: figures/0_Fluxogramas-4.jpg  used on input line 91.
-(pdftex.def)             Requested size: 409.71692pt x 463.96442pt.
- [2]) [3 <f:/Root Files/Academic/masters/_desenvolvimento/_regular/_eventos/LPP-Article/figures/0_Fluxogramas-4.jpg>] ("f:/Root Files\Academic\masters\_desenvolvimento\_regular\_eventos\LPP-Article\main.aux")
+<figures/fig11_8-19-2pav.png, id=7, 1580.90625pt x 797.98125pt>
+File: figures/fig11_8-19-2pav.png Graphic file (type png)
+<use figures/fig11_8-19-2pav.png>
+Package pdftex.def Info: figures/fig11_8-19-2pav.png  used on input line 91.
+(pdftex.def)             Requested size: 455.24411pt x 229.7892pt.
+ [2 <f:/Root Files/Academic/masters/_desenvolvimento/_regular/_eventos/LPP-Article/figures/fig11_8-19-2pav.png>]) [3] ("f:/Root Files\Academic\masters\_desenvolvimento\_regular\_eventos\LPP-Article\main.aux")
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
@@ -708,7 +708,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  60i,10n,65p,894b,4021s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/aaa_l/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/Users/aaa_l/AppData/Local/Programs/MiKTeX/fonts/type1/bitstrea/charter/bchr8a.pfb><C:/Users/aaa_l/AppData/Local/Programs/MiKTeX/fonts/type1/bitstrea/charter/bchri8a.pfb>
-Output written on "f:/Root Files\Academic\masters\_desenvolvimento\_regular\_eventos\LPP-Article\main.pdf" (3 pages, 488816 bytes).
+Output written on "f:/Root Files\Academic\masters\_desenvolvimento\_regular\_eventos\LPP-Article\main.pdf" (3 pages, 1426082 bytes).
 PDF statistics:
  22 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
