@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.7) (preloaded format=pdflatex 2020.8.26)  12 OCT 2020 18:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.7) (preloaded format=pdflatex 2020.8.26)  12 OCT 2020 22:54
 entering extended mode
 **"f:/Root Files/Academic/masters/_desenvolvimento/_regular/_eventos/LPP-Article/main.tex"
 ("f:/Root Files/Academic/masters/_desenvolvimento/_regular/_eventos/LPP-Article/main.tex"
@@ -712,11 +712,11 @@ File: figures/grafico-8pav.png Graphic file (type png)
 Package pdftex.def Info: figures/grafico-8pav.png  used on input line 151.
 (pdftex.def)             Requested size: 455.24411pt x 225.94844pt.
  [4 <f:/Root Files/Academic/masters/_desenvolvimento/_regular/_eventos/LPP-Article/figures/paineis pv.png>]
-<figures/grafico-19pav.png, id=22, 1008.1665pt x 482.7636pt>
+<figures/grafico-19pav.png, id=22, 1008.1665pt x 484.4499pt>
 File: figures/grafico-19pav.png Graphic file (type png)
 <use figures/grafico-19pav.png>
 Package pdftex.def Info: figures/grafico-19pav.png  used on input line 161.
-(pdftex.def)             Requested size: 455.24411pt x 217.99297pt.
+(pdftex.def)             Requested size: 455.24411pt x 218.75443pt.
 ) [5 <f:/Root Files/Academic/masters/_desenvolvimento/_regular/_eventos/LPP-Article/figures/grafico-8pav.png> <f:/Root Files/Academic/masters/_desenvolvimento/_regular/_eventos/LPP-Article/figures/grafico-19pav.png>] ("f:/Root Files\Academic\masters\_desenvolvimento\_regular\_eventos\LPP-Article\main.aux")
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
@@ -731,7 +731,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  60i,10n,65p,894b,4021s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/aaa_l/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/Users/aaa_l/AppData/Local/Programs/MiKTeX/fonts/type1/bitstrea/charter/bchr8a.pfb><C:/Users/aaa_l/AppData/Local/Programs/MiKTeX/fonts/type1/bitstrea/charter/bchri8a.pfb>
-Output written on "f:/Root Files\Academic\masters\_desenvolvimento\_regular\_eventos\LPP-Article\main.pdf" (5 pages, 4723948 bytes).
+Output written on "f:/Root Files\Academic\masters\_desenvolvimento\_regular\_eventos\LPP-Article\main.pdf" (5 pages, 4725090 bytes).
 PDF statistics:
  36 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

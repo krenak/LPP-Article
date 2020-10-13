@@ -1,10 +1,10 @@
 # Fdb version 3
-["biber main"] 1601251517 "main.bcf" "main.bbl" "main" 1602536694
-  "main.bcf" 1602536693 105342 3c63a279e74cb029553c8fb311159cda "pdflatex"
+["biber main"] 1601251517 "main.bcf" "main.bbl" "main" 1602554094
+  "main.bcf" 1602554094 105342 3c63a279e74cb029553c8fb311159cda "pdflatex"
   (generated)
   "main.blg"
   "main.bbl"
-["pdflatex"] 1602536689 "f:/Root Files/Academic/masters/_desenvolvimento/_regular/_eventos/LPP-Article/main.tex" "f:/Root Files/Academic/masters/_desenvolvimento/_regular/_eventos/LPP-Article/main.pdf" "main" 1602536694
+["pdflatex"] 1602554089 "f:/Root Files/Academic/masters/_desenvolvimento/_regular/_eventos/LPP-Article/main.tex" "f:/Root Files/Academic/masters/_desenvolvimento/_regular/_eventos/LPP-Article/main.pdf" "main" 1602554094
   "C:/Users/aaa_l/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1598478754 10050466 8568016b8a220c0ceb96ba6e8cb6d29d ""
   "C:/Users/aaa_l/AppData/Local/MiKTeX/pdftex/config/pdftex.map" 1601143669 117612 53eb9240fb1ccf52de0c2e950d6bb947 ""
   "C:/Users/aaa_l/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc" 1458473887 4993 80dc9bab7f31fb78a000ccfed0e27cab ""
@@ -97,23 +97,23 @@
   "C:/Users/aaa_l/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/aaa_l/AppData/Local/Programs/MiKTeX/tex/latex/wrapfig/wrapfig.sty" 1044403200 26220 3701aebf80ccdef248c0c20dd062fea9 ""
   "C:/Users/aaa_l/AppData/Local/Programs/MiKTeX/tex/latex/xpatch/xpatch.sty" 1585221260 8510 7803f78066c4f9d008405191a4b43073 ""
-  "f:/Root Files/Academic/masters/_desenvolvimento/_regular/_eventos/LPP-Article/main.aux" 1602536693 1712 c6813bd811838128d16fdf32e2ce322e ""
+  "f:/Root Files/Academic/masters/_desenvolvimento/_regular/_eventos/LPP-Article/main.aux" 1602554094 1712 c6813bd811838128d16fdf32e2ce322e ""
   "f:/Root Files/Academic/masters/_desenvolvimento/_regular/_eventos/LPP-Article/main.tex" 1601251514 2274 a83becd6450982aaa13a7f95742fd87c ""
   "figures/fig11_8-19-2pav.png" 1601158337 1360759 908e748136d1dfd65f97ad60c1a173e6 ""
   "figures/fig8_Fluxogramas_1.jpg" 1599429606 235943 5418bb6dda6f3d6d4232ec31df239a3c ""
-  "figures/grafico-19pav.png" 1602532791 176099 6a667fcf7bc6aafa6bd9a1249a674245 ""
-  "figures/grafico-8pav.png" 1602535292 194420 4dc4b1c2c9ee2caf81998c041ce4acb5 ""
+  "figures/grafico-19pav.png" 1602553194 179287 e355e93d39c51499c3830181b64047b0 ""
+  "figures/grafico-8pav.png" 1602553947 194320 98aa3b1dc4c631aec25a1fbe4c2c4d28 ""
   "figures/paineis pv.png" 1602536673 2718201 bf820200e1410aafa4d58cf699b61578 ""
-  "main.aux" 1602536693 1712 c6813bd811838128d16fdf32e2ce322e "pdflatex"
+  "main.aux" 1602554094 1712 c6813bd811838128d16fdf32e2ce322e "pdflatex"
   "main.bbl" 1601251522 0 d41d8cd98f00b204e9800998ecf8427e "biber main"
-  "main.run.xml" 1602536693 2362 71550c01bdfab9a2aea076b1f6e3426e "pdflatex"
+  "main.run.xml" 1602554094 2362 71550c01bdfab9a2aea076b1f6e3426e "pdflatex"
   "main.tex" 1601251514 2274 a83becd6450982aaa13a7f95742fd87c ""
-  "secoes/corpo.tex" 1602536688 11530 1afcf6ec7c1b068b824abd9f83326e32 ""
+  "secoes/corpo.tex" 1602554088 11530 1afcf6ec7c1b068b824abd9f83326e32 ""
   (generated)
+  "main.log"
+  "main.run.xml"
+  "f:/Root Files/Academic/masters/_desenvolvimento/_regular/_eventos/LPP-Article/main.pdf"
+  "f:/Root Files/Academic/masters/_desenvolvimento/_regular/_eventos/LPP-Article/main.log"
+  "main.pdf"
   "main.bcf"
   "main.aux"
-  "main.pdf"
-  "main.run.xml"
-  "main.log"
-  "f:/Root Files/Academic/masters/_desenvolvimento/_regular/_eventos/LPP-Article/main.log"
-  "f:/Root Files/Academic/masters/_desenvolvimento/_regular/_eventos/LPP-Article/main.pdf"
