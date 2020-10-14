@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.7) (preloaded format=pdflatex 2020.8.26)  12 OCT 2020 22:54
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.7) (preloaded format=pdflatex 2020.8.26)  13 OCT 2020 22:13
 entering extended mode
 **"f:/Root Files/Academic/masters/_desenvolvimento/_regular/_eventos/LPP-Article/main.tex"
 ("f:/Root Files/Academic/masters/_desenvolvimento/_regular/_eventos/LPP-Article/main.tex"
@@ -549,7 +549,7 @@ File: ot1bch.fd 2004/10/18 font definitions for OT1/bch.
 * \oddsidemargin=-1.1381pt
 * \evensidemargin=-1.1381pt
 * \topmargin=-38.1381pt
-* \headheight=15.0pt
+* \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=12.0pt
 * \footskip=30.0pt
@@ -685,55 +685,55 @@ File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (
 ) ("f:/Root Files\Academic\masters\_desenvolvimento\_regular\_eventos\LPP-Article\secoes/corpo.tex" [1
 
 {C:/Users/aaa_l/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
-LaTeX Font Info:    Trying to load font information for TS1+bch on input line 73.
+LaTeX Font Info:    Trying to load font information for TS1+bch on input line 74.
  (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1bch.fd
 File: ts1bch.fd 2004/10/18 font definitions for TS1/bch.
 )
-<figures/fig8_Fluxogramas_1.jpg, id=7, 1122.44344pt x 380.17032pt>
-File: figures/fig8_Fluxogramas_1.jpg Graphic file (type jpg)
-<use figures/fig8_Fluxogramas_1.jpg>
-Package pdftex.def Info: figures/fig8_Fluxogramas_1.jpg  used on input line 97.
-(pdftex.def)             Requested size: 455.24411pt x 154.18857pt.
-<figures/fig11_8-19-2pav.png, id=8, 1580.90625pt x 797.98125pt>
+<figures/0_Fluxogramas1 (2).jpg, id=7, 1364.09625pt x 459.96844pt>
+File: figures/0_Fluxogramas1 (2).jpg Graphic file (type jpg)
+<use figures/0_Fluxogramas1 (2).jpg>
+Package pdftex.def Info: figures/0_Fluxogramas1 (2).jpg  used on input line 95.
+(pdftex.def)             Requested size: 409.71692pt x 138.15302pt.
+ [2 <f:/Root Files/Academic/masters/_desenvolvimento/_regular/_eventos/LPP-Article/figures/0_Fluxogramas1 (2).jpg>]
+<figures/fig11_8-19-2pav.png, id=11, 1580.90625pt x 797.98125pt>
 File: figures/fig11_8-19-2pav.png Graphic file (type png)
 <use figures/fig11_8-19-2pav.png>
-Package pdftex.def Info: figures/fig11_8-19-2pav.png  used on input line 110.
+Package pdftex.def Info: figures/fig11_8-19-2pav.png  used on input line 118.
 (pdftex.def)             Requested size: 455.24411pt x 229.7892pt.
- [2 <f:/Root Files/Academic/masters/_desenvolvimento/_regular/_eventos/LPP-Article/figures/fig8_Fluxogramas_1.jpg>]
 <figures/paineis pv.png, id=12, 1218.954pt x 893.2572pt>
 File: figures/paineis pv.png Graphic file (type png)
 <use figures/paineis pv.png>
-Package pdftex.def Info: figures/paineis pv.png  used on input line 124.
+Package pdftex.def Info: figures/paineis pv.png  used on input line 133.
 (pdftex.def)             Requested size: 386.96027pt x 283.5583pt.
  [3 <f:/Root Files/Academic/masters/_desenvolvimento/_regular/_eventos/LPP-Article/figures/fig11_8-19-2pav.png>]
 <figures/grafico-8pav.png, id=17, 1013.4663pt x 502.9992pt>
 File: figures/grafico-8pav.png Graphic file (type png)
 <use figures/grafico-8pav.png>
-Package pdftex.def Info: figures/grafico-8pav.png  used on input line 151.
+Package pdftex.def Info: figures/grafico-8pav.png  used on input line 169.
 (pdftex.def)             Requested size: 455.24411pt x 225.94844pt.
  [4 <f:/Root Files/Academic/masters/_desenvolvimento/_regular/_eventos/LPP-Article/figures/paineis pv.png>]
 <figures/grafico-19pav.png, id=22, 1008.1665pt x 484.4499pt>
 File: figures/grafico-19pav.png Graphic file (type png)
 <use figures/grafico-19pav.png>
-Package pdftex.def Info: figures/grafico-19pav.png  used on input line 161.
+Package pdftex.def Info: figures/grafico-19pav.png  used on input line 184.
 (pdftex.def)             Requested size: 455.24411pt x 218.75443pt.
-) [5 <f:/Root Files/Academic/masters/_desenvolvimento/_regular/_eventos/LPP-Article/figures/grafico-8pav.png> <f:/Root Files/Academic/masters/_desenvolvimento/_regular/_eventos/LPP-Article/figures/grafico-19pav.png>] ("f:/Root Files\Academic\masters\_desenvolvimento\_regular\_eventos\LPP-Article\main.aux")
+ [5 <f:/Root Files/Academic/masters/_desenvolvimento/_regular/_eventos/LPP-Article/figures/grafico-8pav.png> <f:/Root Files/Academic/masters/_desenvolvimento/_regular/_eventos/LPP-Article/figures/grafico-19pav.png>]) [6] ("f:/Root Files\Academic\masters\_desenvolvimento\_regular\_eventos\LPP-Article\main.aux")
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
  14540 strings out of 481212
- 261017 string characters out of 2905973
- 1002724 words of memory out of 3000000
- 29789 multiletter control sequences out of 15000+200000
- 557031 words of font info for 121 fonts, out of 3000000 for 9000
+ 261015 string characters out of 2905973
+ 1002689 words of memory out of 3000000
+ 29783 multiletter control sequences out of 15000+200000
+ 557506 words of font info for 125 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  60i,10n,65p,894b,4021s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/aaa_l/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/Users/aaa_l/AppData/Local/Programs/MiKTeX/fonts/type1/bitstrea/charter/bchr8a.pfb><C:/Users/aaa_l/AppData/Local/Programs/MiKTeX/fonts/type1/bitstrea/charter/bchri8a.pfb>
-Output written on "f:/Root Files\Academic\masters\_desenvolvimento\_regular\_eventos\LPP-Article\main.pdf" (5 pages, 4725090 bytes).
+Output written on "f:/Root Files\Academic\masters\_desenvolvimento\_regular\_eventos\LPP-Article\main.pdf" (6 pages, 4814898 bytes).
 PDF statistics:
- 36 PDF objects out of 1000 (max. 8388607)
+ 39 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  23066 words of extra memory for PDF output out of 24883 (max. 10000000)
 
