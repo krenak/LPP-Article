@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.7) (preloaded format=pdflatex 2020.8.26)  13 OCT 2020 22:19
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.7) (preloaded format=pdflatex 2020.8.26)  13 OCT 2020 22:32
 entering extended mode
 **"f:/Root Files/Academic/masters/_desenvolvimento/_regular/_eventos/LPP-Article/main.tex"
 ("f:/Root Files/Academic/masters/_desenvolvimento/_regular/_eventos/LPP-Article/main.tex"
@@ -101,17 +101,6 @@ File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen145
 \Gin@req@width=\dimen146
-) (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
-Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footers
-\f@nch@headwidth=\skip50
-\f@nch@O@elh=\skip51
-\f@nch@O@erh=\skip52
-\f@nch@O@olh=\skip53
-\f@nch@O@orh=\skip54
-\f@nch@O@elf=\skip55
-\f@nch@O@erf=\skip56
-\f@nch@O@olf=\skip57
-\f@nch@O@orf=\skip58
 ) (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count183
@@ -190,14 +179,14 @@ Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 \blx@parenlevel@foot=\count290
 \blx@sectionciteorder@0=\count291
 \blx@entrysetcounter=\count292
-\labelnumberwidth=\skip59
-\labelalphawidth=\skip60
-\biblabelsep=\skip61
-\bibitemsep=\skip62
-\bibnamesep=\skip63
-\bibinitsep=\skip64
-\bibparsep=\skip65
-\bibhang=\skip66
+\labelnumberwidth=\skip50
+\labelalphawidth=\skip51
+\biblabelsep=\skip52
+\bibitemsep=\skip53
+\bibnamesep=\skip54
+\bibinitsep=\skip55
+\bibparsep=\skip56
+\bibhang=\skip57
 \blx@bcfin=\read3
 \blx@bcfout=\write3
 \blx@langwohyphens=\language80
@@ -281,20 +270,20 @@ Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
 \c@savedoriglanguage=\count361
 \c@pageref=\count362
 \c@savedpageref=\count363
-\shorthandwidth=\skip67
-\shortjournalwidth=\skip68
-\shortserieswidth=\skip69
-\shorttitlewidth=\skip70
-\shortauthorwidth=\skip71
-\shorteditorwidth=\skip72
-\locallabelnumberwidth=\skip73
-\locallabelalphawidth=\skip74
-\localshorthandwidth=\skip75
-\localshortjournalwidth=\skip76
-\localshortserieswidth=\skip77
-\localshorttitlewidth=\skip78
-\localshortauthorwidth=\skip79
-\localshorteditorwidth=\skip80
+\shorthandwidth=\skip58
+\shortjournalwidth=\skip59
+\shortserieswidth=\skip60
+\shorttitlewidth=\skip61
+\shortauthorwidth=\skip62
+\shorteditorwidth=\skip63
+\locallabelnumberwidth=\skip64
+\locallabelalphawidth=\skip65
+\localshorthandwidth=\skip66
+\localshortjournalwidth=\skip67
+\localshortserieswidth=\skip68
+\localshorttitlewidth=\skip69
+\localshortauthorwidth=\skip70
+\localshorteditorwidth=\skip71
 Package biblatex Info: Trying to load compatibility code...
 Package biblatex Info: ... file 'blx-compat.def' found.
  (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-compat.def
@@ -405,21 +394,21 @@ Package csquotes Info: Redefining alias 'default' -> 'brazil'.
  ("f:/Root Files\Academic\masters\_desenvolvimento\_regular\_eventos\LPP-Article\main.aux")
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Trying to load font information for OT1+bch on input line 23.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Trying to load font information for OT1+bch on input line 17.
  (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1bch.fd
 File: ot1bch.fd 2004/10/18 font definitions for OT1/bch.
 )
@@ -457,14 +446,14 @@ File: ot1bch.fd 2004/10/18 font definitions for OT1/bch.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Info: Redefining \microtypecontext on input line 23.
+LaTeX Info: Redefining \microtypecontext on input line 17.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `basictext'.
-LaTeX Info: Redefining \showhyphens on input line 23.
+LaTeX Info: Redefining \showhyphens on input line 17.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
@@ -569,15 +558,15 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
  ("f:/Root Files\Academic\masters\_desenvolvimento\_regular\_eventos\LPP-Article\main.bbl")
-Package biblatex Info: Reference section=0 on input line 23.
-Package biblatex Info: Reference segment=0 on input line 23.
+Package biblatex Info: Reference section=0 on input line 17.
+Package biblatex Info: Reference segment=0 on input line 17.
  (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (RS)
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 26.
+(Font)              <14.4> on input line 20.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 26.
+(Font)              <7> on input line 20.
  ("f:/Root Files\Academic\masters\_desenvolvimento\_regular\_eventos\LPP-Article\secoes/corpo.tex" [1
 
 {C:/Users/aaa_l/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
@@ -595,41 +584,40 @@ Package pdftex.def Info: figures/0_Fluxogramas1 (2).jpg  used on input line 95.
 File: figures/fig11_8-19-2pav.png Graphic file (type png)
 <use figures/fig11_8-19-2pav.png>
 Package pdftex.def Info: figures/fig11_8-19-2pav.png  used on input line 117.
-(pdftex.def)             Requested size: 455.24411pt x 229.7892pt.
-<figures/paineis pv.png, id=12, 1218.954pt x 893.2572pt>
-File: figures/paineis pv.png Graphic file (type png)
-<use figures/paineis pv.png>
-Package pdftex.def Info: figures/paineis pv.png  used on input line 131.
-(pdftex.def)             Requested size: 386.96027pt x 283.5583pt.
+(pdftex.def)             Requested size: 409.71692pt x 206.81271pt.
+<figures/paineis pv2.png, id=12, 1191.7022pt x 730.98094pt>
+File: figures/paineis pv2.png Graphic file (type png)
+<use figures/paineis pv2.png>
+Package pdftex.def Info: figures/paineis pv2.png  used on input line 131.
+(pdftex.def)             Requested size: 318.66948pt x 195.46017pt.
  [3 <f:/Root Files/Academic/masters/_desenvolvimento/_regular/_eventos/LPP-Article/figures/fig11_8-19-2pav.png>]
-<figures/grafico-8pav.png, id=17, 1013.4663pt x 502.9992pt>
+<figures/grafico-8pav.png, id=16, 1013.4663pt x 502.9992pt>
 File: figures/grafico-8pav.png Graphic file (type png)
 <use figures/grafico-8pav.png>
 Package pdftex.def Info: figures/grafico-8pav.png  used on input line 166.
-(pdftex.def)             Requested size: 455.24411pt x 225.94844pt.
- [4 <f:/Root Files/Academic/masters/_desenvolvimento/_regular/_eventos/LPP-Article/figures/paineis pv.png>]
-<figures/grafico-19pav.png, id=22, 1008.1665pt x 484.4499pt>
+(pdftex.def)             Requested size: 386.96027pt x 192.05502pt.
+<figures/grafico-19pav.png, id=18, 1008.1665pt x 484.4499pt>
 File: figures/grafico-19pav.png Graphic file (type png)
 <use figures/grafico-19pav.png>
 Package pdftex.def Info: figures/grafico-19pav.png  used on input line 180.
-(pdftex.def)             Requested size: 455.24411pt x 218.75443pt.
- [5 <f:/Root Files/Academic/masters/_desenvolvimento/_regular/_eventos/LPP-Article/figures/grafico-8pav.png> <f:/Root Files/Academic/masters/_desenvolvimento/_regular/_eventos/LPP-Article/figures/grafico-19pav.png>]) [6] ("f:/Root Files\Academic\masters\_desenvolvimento\_regular\_eventos\LPP-Article\main.aux")
+(pdftex.def)             Requested size: 386.96027pt x 185.94089pt.
+ [4 <f:/Root Files/Academic/masters/_desenvolvimento/_regular/_eventos/LPP-Article/figures/paineis pv2.png>]) [5 <f:/Root Files/Academic/masters/_desenvolvimento/_regular/_eventos/LPP-Article/figures/grafico-8pav.png> <f:/Root Files/Academic/masters/_desenvolvimento/_regular/_eventos/LPP-Article/figures/grafico-19pav.png>] ("f:/Root Files\Academic\masters\_desenvolvimento\_regular\_eventos\LPP-Article\main.aux")
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 13107 strings out of 481212
- 242951 string characters out of 2905973
- 974218 words of memory out of 3000000
- 28384 multiletter control sequences out of 15000+200000
- 556695 words of font info for 122 fonts, out of 3000000 for 9000
+ 12965 strings out of 481212
+ 241276 string characters out of 2905973
+ 973129 words of memory out of 3000000
+ 28257 multiletter control sequences out of 15000+200000
+ 555951 words of font info for 116 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,11n,65p,894b,4021s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 60i,6n,65p,894b,4021s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/aaa_l/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/Users/aaa_l/AppData/Local/Programs/MiKTeX/fonts/type1/bitstrea/charter/bchr8a.pfb><C:/Users/aaa_l/AppData/Local/Programs/MiKTeX/fonts/type1/bitstrea/charter/bchri8a.pfb>
-Output written on "f:/Root Files\Academic\masters\_desenvolvimento\_regular\_eventos\LPP-Article\main.pdf" (6 pages, 4814894 bytes).
+Output written on "f:/Root Files\Academic\masters\_desenvolvimento\_regular\_eventos\LPP-Article\main.pdf" (5 pages, 3788693 bytes).
 PDF statistics:
- 39 PDF objects out of 1000 (max. 8388607)
+ 35 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 23066 words of extra memory for PDF output out of 24883 (max. 10000000)
+ 19482 words of extra memory for PDF output out of 20736 (max. 10000000)
 
