@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.7) (preloaded format=pdflatex 2020.8.26)  13 OCT 2020 22:32
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.7) (preloaded format=pdflatex 2020.8.26)  1 NOV 2020 20:56
 entering extended mode
 **"f:/Root Files/Academic/masters/_desenvolvimento/_regular/_eventos/LPP-Article/main.tex"
 ("f:/Root Files/Academic/masters/_desenvolvimento/_regular/_eventos/LPP-Article/main.tex"
@@ -570,36 +570,36 @@ LaTeX Font Info:    External font `cmex10' loaded for size
  ("f:/Root Files\Academic\masters\_desenvolvimento\_regular\_eventos\LPP-Article\secoes/corpo.tex" [1
 
 {C:/Users/aaa_l/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
-LaTeX Font Info:    Trying to load font information for TS1+bch on input line 74.
+LaTeX Font Info:    Trying to load font information for TS1+bch on input line 19.
  (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1bch.fd
 File: ts1bch.fd 2004/10/18 font definitions for TS1/bch.
 )
 <figures/0_Fluxogramas1 (2).jpg, id=7, 1364.09625pt x 459.96844pt>
 File: figures/0_Fluxogramas1 (2).jpg Graphic file (type jpg)
 <use figures/0_Fluxogramas1 (2).jpg>
-Package pdftex.def Info: figures/0_Fluxogramas1 (2).jpg  used on input line 95.
+Package pdftex.def Info: figures/0_Fluxogramas1 (2).jpg  used on input line 26.
 (pdftex.def)             Requested size: 409.71692pt x 138.15302pt.
  [2 <f:/Root Files/Academic/masters/_desenvolvimento/_regular/_eventos/LPP-Article/figures/0_Fluxogramas1 (2).jpg>]
 <figures/fig11_8-19-2pav.png, id=11, 1580.90625pt x 797.98125pt>
 File: figures/fig11_8-19-2pav.png Graphic file (type png)
 <use figures/fig11_8-19-2pav.png>
-Package pdftex.def Info: figures/fig11_8-19-2pav.png  used on input line 117.
+Package pdftex.def Info: figures/fig11_8-19-2pav.png  used on input line 36.
 (pdftex.def)             Requested size: 409.71692pt x 206.81271pt.
 <figures/paineis pv2.png, id=12, 1191.7022pt x 730.98094pt>
 File: figures/paineis pv2.png Graphic file (type png)
 <use figures/paineis pv2.png>
-Package pdftex.def Info: figures/paineis pv2.png  used on input line 131.
+Package pdftex.def Info: figures/paineis pv2.png  used on input line 44.
 (pdftex.def)             Requested size: 318.66948pt x 195.46017pt.
  [3 <f:/Root Files/Academic/masters/_desenvolvimento/_regular/_eventos/LPP-Article/figures/fig11_8-19-2pav.png>]
 <figures/grafico-8pav.png, id=16, 1013.4663pt x 502.9992pt>
 File: figures/grafico-8pav.png Graphic file (type png)
 <use figures/grafico-8pav.png>
-Package pdftex.def Info: figures/grafico-8pav.png  used on input line 166.
+Package pdftex.def Info: figures/grafico-8pav.png  used on input line 56.
 (pdftex.def)             Requested size: 386.96027pt x 192.05502pt.
 <figures/grafico-19pav.png, id=18, 1008.1665pt x 484.4499pt>
 File: figures/grafico-19pav.png Graphic file (type png)
 <use figures/grafico-19pav.png>
-Package pdftex.def Info: figures/grafico-19pav.png  used on input line 180.
+Package pdftex.def Info: figures/grafico-19pav.png  used on input line 64.
 (pdftex.def)             Requested size: 386.96027pt x 185.94089pt.
  [4 <f:/Root Files/Academic/masters/_desenvolvimento/_regular/_eventos/LPP-Article/figures/paineis pv2.png>]) [5 <f:/Root Files/Academic/masters/_desenvolvimento/_regular/_eventos/LPP-Article/figures/grafico-8pav.png> <f:/Root Files/Academic/masters/_desenvolvimento/_regular/_eventos/LPP-Article/figures/grafico-19pav.png>] ("f:/Root Files\Academic\masters\_desenvolvimento\_regular\_eventos\LPP-Article\main.aux")
 Package logreq Info: Writing requests to 'main.run.xml'.
@@ -608,14 +608,14 @@ Package logreq Info: Writing requests to 'main.run.xml'.
  ) 
 Here is how much of TeX's memory you used:
  12965 strings out of 481212
- 241276 string characters out of 2905973
+ 241273 string characters out of 2905973
  973129 words of memory out of 3000000
  28257 multiletter control sequences out of 15000+200000
  555951 words of font info for 116 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,6n,65p,894b,4021s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 60i,6n,65p,1083b,4021s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/aaa_l/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/Users/aaa_l/AppData/Local/Programs/MiKTeX/fonts/type1/bitstrea/charter/bchr8a.pfb><C:/Users/aaa_l/AppData/Local/Programs/MiKTeX/fonts/type1/bitstrea/charter/bchri8a.pfb>
-Output written on "f:/Root Files\Academic\masters\_desenvolvimento\_regular\_eventos\LPP-Article\main.pdf" (5 pages, 3788693 bytes).
+Output written on "f:/Root Files\Academic\masters\_desenvolvimento\_regular\_eventos\LPP-Article\main.pdf" (5 pages, 3788686 bytes).
 PDF statistics:
  35 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
